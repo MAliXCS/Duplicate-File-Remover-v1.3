@@ -46,7 +46,7 @@ If you discover a security vulnerability in Duplicate File Remover, please follo
 
 ### DO
 
-1. **Email the maintainer directly** at: security@yourdomain.com (replace with actual email)
+1. **Email the maintainer directly** at: ALIZARGHUNRAJPUT@GMAIL.COM
 2. **Include the following information**:
    - Clear description of the vulnerability
    - Steps to reproduce the issue
