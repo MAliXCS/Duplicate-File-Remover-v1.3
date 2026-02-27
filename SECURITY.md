@@ -130,7 +130,7 @@ Security updates will be released as patch versions (e.g., 1.3.1). Users are enc
 
 For security-related inquiries:
 
-- **Email**: security@yourdomain.com (replace with actual email)
+- **Email**: alizarghunrajput@gmail.com
 - **GitHub**: [@MAliXCS](https://github.com/MAliXCS)
 - **Instagram**: [@x404ctl](https://instagram.com/x404ctl)
 
