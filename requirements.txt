@@ -1,0 +1,49 @@
+# Duplicate File Remover - Python Dependencies
+# ==============================================
+
+# Core Dependencies (Built-in with Python 3.7+)
+# These are included with Python and don't need to be installed:
+# - tkinter (GUI framework)
+# - hashlib (hash algorithms)
+# - threading (background processing)
+# - os, sys (system operations)
+# - json (settings storage)
+# - fnmatch (pattern matching)
+# - subprocess (external commands)
+# - ctypes (Windows API)
+# - re (regular expressions)
+# - datetime (timestamps)
+# - collections (data structures)
+# - time (timing operations)
+
+# Optional Dependencies
+# =====================
+
+# send2trash - For moving files to Recycle Bin instead of permanent deletion
+# Install: pip install send2trash
+# Note: Without this, files will be permanently deleted
+send2trash>=1.8.0
+
+# Development Dependencies (Optional)
+# ===================================
+# Uncomment these if you want to contribute to development
+
+# pytest>=7.0.0          # For running tests
+# black>=22.0.0          # For code formatting
+# pylint>=2.12.0         # For code linting
+# pyinstaller>=5.0.0     # For creating standalone executable
+
+# Installation Instructions
+# =========================
+#
+# Basic Installation (recommended for most users):
+#   pip install -r requirements.txt
+#
+# Minimal Installation (no Recycle Bin support):
+#   No installation needed - just run the Python file directly
+#
+# Development Installation:
+#   pip install -r requirements.txt
+#   pip install pytest black pylint pyinstaller
+#
+# Python Version Requirement: 3.7 or higher
